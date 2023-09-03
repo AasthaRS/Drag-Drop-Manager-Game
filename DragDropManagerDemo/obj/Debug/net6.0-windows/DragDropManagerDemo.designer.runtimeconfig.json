@@ -1,0 +1,24 @@
+{
+  "runtimeOptions": {
+    "tfm": "net6.0",
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "6.0.0"
+      },
+      {
+        "name": "Microsoft.WindowsDesktop.App",
+        "version": "6.0.0"
+      }
+    ],
+    "additionalProbingPaths": [
+      "C:\\Users\\aastha.gupta\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\aastha.gupta\\.nuget\\packages",
+      "C:\\Program Files (x86)\\ComponentOne\\WPF Edition\\bin\\v6",
+      "C:\\Program Files (x86)\\ComponentOne\\WinForms Edition\\bin\\v6"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}

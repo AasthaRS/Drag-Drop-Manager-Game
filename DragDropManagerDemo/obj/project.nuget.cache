@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5mw1E6LRXuAM4lqcuLFfhuV0IC8zM8/+X44OXDffKMEbMx/A8VF4JQ8cdO4JjNXmFod7y5FvAeuWugT+KVaOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aastha.gupta\\source\\repos\\aastha-gupta\\WPF Query Samples\\MultipleControlDemoJP\\DragDropManagerDemo\\DragDropManagerDemo\\DragDropManagerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aastha.gupta\\.nuget\\packages\\c1.wpf.core.ja\\6.0.20223.380\\c1.wpf.core.ja.6.0.20223.380.nupkg.sha512",
+    "C:\\Users\\aastha.gupta\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

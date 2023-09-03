@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DragDropManagerDemo/1.0.0": {
+        "dependencies": {
+          "C1.WPF.Core.Ja": "6.0.20223.380"
+        },
+        "runtime": {
+          "DragDropManagerDemo.dll": {}
+        }
+      },
+      "C1.WPF.Core.Ja/6.0.20223.380": {
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.39"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/C1.WPF.Core.dll": {
+            "assemblyVersion": "6.0.20223.380",
+            "fileVersion": "6.0.20223.380"
+          }
+        },
+        "resources": {
+          "lib/net6.0-windows7.0/ja/C1.WPF.Core.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.39.4716"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DragDropManagerDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C1.WPF.Core.Ja/6.0.20223.380": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Hn58vdd7yNBbyRKkFNCGa0SUULMh5lKeXRPl8M1PtKVQKb2hKBeYrhL5jyZERzGj6kzX9eIE9oZjPlIqBR5rcg==",
+      "path": "c1.wpf.core.ja/6.0.20223.380",
+      "hashPath": "c1.wpf.core.ja.6.0.20223.380.nupkg.sha512"
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.39": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8PZKqw9QOcu42xk8puY4P1+EXHL9YGOR9b7qhaYx5cILHul456H073tj99vyPcCt0W0781T9RwHqkx507ZyUpQ==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.39",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+    }
+  }
+}

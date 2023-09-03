@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aastha.gupta\\source\\repos\\aastha-gupta\\WPF Query Samples\\MultipleControlDemoJP\\DragDropManagerDemo\\DragDropManagerDemo\\DragDropManagerDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aastha.gupta\\source\\repos\\aastha-gupta\\WPF Query Samples\\MultipleControlDemoJP\\DragDropManagerDemo\\DragDropManagerDemo\\DragDropManagerDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aastha.gupta\\source\\repos\\aastha-gupta\\WPF Query Samples\\MultipleControlDemoJP\\DragDropManagerDemo\\DragDropManagerDemo\\DragDropManagerDemo.csproj",
+        "projectName": "DragDropManagerDemo",
+        "projectPath": "C:\\Users\\aastha.gupta\\source\\repos\\aastha-gupta\\WPF Query Samples\\MultipleControlDemoJP\\DragDropManagerDemo\\DragDropManagerDemo\\DragDropManagerDemo.csproj",
+        "packagesPath": "C:\\Users\\aastha.gupta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aastha.gupta\\source\\repos\\aastha-gupta\\WPF Query Samples\\MultipleControlDemoJP\\DragDropManagerDemo\\DragDropManagerDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\ComponentOne\\WPF Edition\\bin\\v6\\",
+          "C:\\Program Files (x86)\\ComponentOne\\WinForms Edition\\bin\\v6\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aastha.gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ComponentOne.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\ComponentOne\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\aastha.gupta\\Downloads\\C1WPF_6.0.20231.503-hotfix_2023v1\\NugetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "C1.WPF.Core.Ja": {
+              "target": "Package",
+              "version": "[6.0.20223.380, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
